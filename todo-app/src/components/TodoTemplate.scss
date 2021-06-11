@@ -1,11 +1,12 @@
-.TodoTemplate{
+.TodoTemplate {
   width: 512px;
-  margin-left:auto;
+  margin-left: auto;
   margin-right: auto;
   margin-top: 6rem;
   border-radius: 4px;
   overflow: hidden;
-  .app-title{
+
+  .app-title {
     background: #22b8cf;
     color: white;
     height: 4rem;
@@ -14,8 +15,7 @@
     align-items: center;
     justify-content: center;
   }
-  
-  .content{
+  .content {
     background: white;
   }
 }
